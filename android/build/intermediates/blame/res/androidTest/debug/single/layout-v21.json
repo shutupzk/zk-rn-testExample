@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/zhakang/ExpoProject/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/zhakang/.android/build-cache/d0a2776da8db194a8cce3cb3e07494773304be73/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/zhakang/ExpoProject/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action.xml",
+        "source": "/Users/zhakang/.android/build-cache/d0a2776da8db194a8cce3cb3e07494773304be73/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/zhakang/ExpoProject/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/zhakang/.android/build-cache/d0a2776da8db194a8cce3cb3e07494773304be73/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/zhakang/ExpoProject/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/zhakang/.android/build-cache/d0a2776da8db194a8cce3cb3e07494773304be73/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]
